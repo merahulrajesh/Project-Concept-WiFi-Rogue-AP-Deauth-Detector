@@ -15,8 +15,7 @@ An automated, lightweight Python security tool designed to monitor local wireles
 ### Installation
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/WiFi-Sentinel.git](https://github.com/YOUR_USERNAME/WiFi-Sentinel.git)
-cd WiFi-Sentinel
-
+git clone 
+[https://github.com/merahulrajesh/Project-Concept-WiFi-Rogue-AP-Deauth-Detector.git]
 # Install requirements
 pip3 install -r requirements.txt
